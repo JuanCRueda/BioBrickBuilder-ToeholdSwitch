@@ -1,0 +1,10 @@
+pandas
+subprocess
+sklearn
+numpy
+random
+Bio
+streamlit
+base64
+io
+dna_features_viewer
